@@ -2,8 +2,8 @@
 
 
 la marque : ASUS
-les composants essentiels pour le bon fonctionnement de la STA et leurs caractéristiques :
-les connecteurs disponibles :
-le système d’exploitation et ses caractéristiques :
-logiciels installés (version, type de licence) :
-possibilités d’évolution matériel ou logiciel :
+<br/>les composants essentiels pour le bon fonctionnement de la STA et leurs caractéristiques :
+<br/>les connecteurs disponibles :
+<br/>le système d’exploitation et ses caractéristiques :
+<br/>logiciels installés (version, type de licence) :
+<br/>possibilités d’évolution matériel ou logiciel :
