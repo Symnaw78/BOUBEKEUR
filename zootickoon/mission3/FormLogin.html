@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulaire</title>
+</head>
+  <body>
+    <fieldset style="width: 50%; margin-left: auto; margin-right: auto;">
+      <legend style="padding: 0.3%;" class="formulaire">Formulaire de connexion</legend>
+        <div style="text-align: center;">
+          <form style="text-align: center" type="GET" action="recupLogin.php">
+            <br>
+            <label style="margin-right: 1%;">Adresse mail</label>
+            <input type="email" name="login" id="txtEmail" placeholder="Adresse mail" required />
+            <br>
+            <label style="margin-right: 1%;">Mot de passe</label>
+            <input type="password" name="pass" id="txtEmail" placeholder="Mot de passe" required />
+            <br>
+            <br>
+            <input class="formulaire" type="submit" name="cmd" id="cmd" value=" S'identifier " />
+          </div>
+    </fielset>
+  </body>
+</html>
