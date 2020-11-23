@@ -1,0 +1,20 @@
+ul:hover {
+  display:none;
+    }
+img:hover {
+ width:50%
+}
+ul {
+   text-align: center;
+}
+body {
+    background-color: turquoise;
+}
+img.Group {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+   text-align: center;
+}
