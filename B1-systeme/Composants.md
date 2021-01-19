@@ -42,6 +42,6 @@ Les **EEPROM** (*Electrically Erasable Read Only Memory*) sont aussi des PROM ef
 
 Il existe une variante de ces mémoires appelée **mémoires flash** (également *ROM Flash* ou *Flash EPROM*). Contrairement aux EEPROM classiques, utilisant 2 à 3 transistors par bit à mémoriser, la Flash EPROM utilise un seul transistor. D'autre part l'EEPROM peut-être écrite et lue mot par mot, alors que la Flash ne peut être effacée que par pages (la taille des pages étant en constante diminution).
 
-![ROM](BOUBEKEUR/ROM2.jpg){width=75%}
+![ROM](img/ROM2.jpg){width=75%}
 
-![ROM](BOUBEKEUR/ROM3x.jpg){width=75%}
+![ROM](img/ROM3x.jpg){width=75%}
