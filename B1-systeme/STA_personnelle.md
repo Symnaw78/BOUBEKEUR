@@ -9,7 +9,13 @@ Nacime Boubekeur
 ### Les composants essentiels et leurs caractéristiques :
 - **RAM** : 6,00 Go
 - **Processeur** : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71 GHZ
-### Les connecteurs disponibles :
+### Les connecteurs disponibles :  
+- Prise jack
+- Port HDMI
+- 3 ports USB
+- Port réseau (Ethernet)
+- Port USB type C
+- Port SD
 
 ### Le système d’exploitation et ses caractéristiques :
 
