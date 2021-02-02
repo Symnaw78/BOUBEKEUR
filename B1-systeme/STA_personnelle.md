@@ -1,11 +1,16 @@
-Nacime Boubekeur
-<br/>13/10/2020
-# **Découverte d’une première Solution technique d’accès (STA)**
+Nacime Boubekeur  
+13/10/2020
+# **Découverte d’une première Solution technique d’accès (STA)** #
 
+### La marque : ASUS  
 
-la marque : ASUS
-<br/>les composants essentiels pour le bon fonctionnement de la STA et leurs caractéristiques :
-<br/>les connecteurs disponibles :
-<br/>le système d’exploitation et ses caractéristiques :
-<br/>logiciels installés (version, type de licence) :
-<br/>possibilités d’évolution matériel ou logiciel :
+### Les composants essentiels et leurs caractéristiques :
+- **RAM** : 6,00 Go
+- **Processeur** : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71 GHZ
+### Les connecteurs disponibles :
+
+### Le système d’exploitation et ses caractéristiques :
+
+### Logiciels installés (version, type de licence) :
+
+### Les possibilités d’évolution matériel ou logiciel :
