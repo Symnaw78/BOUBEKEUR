@@ -2,6 +2,8 @@ Nacime Boubekeur
 13/10/2020
 # **Découverte d’une première Solution technique d’accès (STA)** #
 
+![PC](img/ordinateurSTA.jpg)
+
 ### La marque : ASUS  
 
 ### Les composants essentiels et leurs caractéristiques :
