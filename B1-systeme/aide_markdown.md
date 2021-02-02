@@ -24,5 +24,34 @@ etc... (Il ne faut pas oublier l'espace)
 - **2 astérisques** ou **underscore** de chaque côté d'un mot/phrase : **gras**
 - Ainsi **3 asrérisques** permettent un rendu en **gras/italique**
 
+### Citation ###
 
+Les **>** servent à écrire une citation.
 
+### Les listes non ordonnée ###
+
+Le **+**, le __*__ et le **-**, ont la même utilité quant au fait de rédiger des listes.
+
+### Les listes ordonnées ###
+
+Il suffit d'écrire un **nombre suivi d'un point** : **1. 2.** etc..
+
+### Bloc de code ###
+
+Pour afficher un bloc de code, **sautez deux lignes comme pour un paragraphe**, puis **indentez** avec **4 espaces** ou une **tabulation**.
+
+### Code dans une ligne ###
+
+Pour afficher du code dans une ligne, il faut **l’entourer par des guillemets simples** : (`).
+
+### Barre de séparation ###
+
+Au moins **3 caractères** (* ou -) et entourée avec du saut de ligne
+
+    --------
+    oui
+    --------
+
+-------
+oui
+-------
