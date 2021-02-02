@@ -10,12 +10,12 @@ Sites de référence
 
  ### Titre et sous-titre ###
 
-- Les = en dessous d'un mot/phrase : Titre de niveau 1
-- Les - en dessous d'un mot phrase : Titre de niveau 2
+- **Les =** en dessous d'un mot/phrase : Titre de niveau 1
+- **Les -** en dessous d'un mot phrase : Titre de niveau 2
 
 Et le nombre de # va permettre de choisir le niveau de son titre :
-- Un # entre chaque mot/phrase : Titre de niveau 1
-- 2 # entre chaque mot/phrase : Titre de niveau 2
+- **Un #** entre chaque mot/phrase : Titre de niveau 1
+- **2 #** entre chaque mot/phrase : Titre de niveau 2  
 etc... (Il ne faut pas oublier l'espace)
 
 ### Emphase ###
