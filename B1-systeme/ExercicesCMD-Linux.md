@@ -28,7 +28,21 @@ Nacime Boubekeur
 4. Pour se déplacer à la racine, nous utiliserons directement :  
     cd /
 5. Et pour finir, étant actuellement à la racine, nous devons seulement utiliser la commande :
-    cd etc
+    cd etc  
+
+## Exercice 2 ##
+
+![chemin](img/2021-02-03.png)
+
+Voici l'arborescence.
+
+1. Pour afficher le chemin du répertoire, il faut se placer dans le répertoire home et utiliser "find".
+2. On se place tout d'abord dans le répertoire mon site avec **cd symna/monsite** puis on utiliser la commande **mkdir .gitignore**.
+3. On utilise la commande **ls -l**.  
+**ls** permettant ici de lister le contenu d'un répertoire et **-l** de lister avec les informations détaillées.
+4. Pour executer la même commande tout en rajoutant les fichiers cachés on utilise cette fois la commande **ls -l -a**.  
+**-a** se chargeant ici d'inclure les fichiers cachés.
+5.
 
 
 
