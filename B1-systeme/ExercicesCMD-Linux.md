@@ -50,6 +50,11 @@ Voici l'arborescence.
 9. On se replace avant tout dans le répertoire monsite avec un **cd ..** puis on utilise une nouvelle fois la commande __*__ qui va nous permettre de supprimer tous les fichiers du répertoires qui commencent par le mot **index**, ce qui est le cas ici, nous n'avons plus qu'à entrer la commande __rm index*__ dans le terminal.
 10. En une seule commande il nous faudra nous placer dans le répertoire personnel /symna puis supprimer le répertoire monsite, nous utiliserons **cd .. ; rm -rf monsite**. Ici **;** va nous permettre d'entrer plusieurs commandes à la suite, et **rm -rf** va forcer la suppression d'un répertoire non vide.
 
+### Execice 3 ###
+
+La commande à faire pour cette partie de l'exercice est  
+    **mkdir exo3 ; cd exo3 ; touch moi.txt ; echo** *Je suis en BTS SIO* **; echo** *Je suis en BTS SIO* **> moi.txt ; echo** *Et j'aime ça !* **>> moi.txt**
+
 
 
 
