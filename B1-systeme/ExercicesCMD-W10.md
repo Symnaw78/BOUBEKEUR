@@ -37,7 +37,7 @@ On passe sur rep3 (**cd .. -> cd rep3**), **mkdir rep31** puis **mkdir rep32**.
 **echo** Je suis en BTS SIO **> moi.txt**
 8. Pour ajouter du texte à la ligne d'une autre on ajoute seulement un **>**, la commande donne ainsi  
 **echo** Et j'aime ça ! **>> moi.txt**
-9.
+9. On utilise **cd \**
 
 ## Exercice 3 ##
 
