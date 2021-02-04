@@ -70,6 +70,6 @@ Et pour cette partie j'ai trouvé une commande, qui n'est pas optimale selon moi
 
 Concernant l'attribution du répertoire /bin à la variable PATH, je n'ai rien eu de concluant sur mon terminal, malgré l'utilisation de certaines commandes telles que **#export PATH="$bin/Scripte:$PATH"** ou **export PATH=$PATH:~/bin**...
 
-Dans l'environnement j'ai pu attribuer **l** à **ls** et à **al** avec **export ls=l**, mais la commande qui marche ici est l -l et non ll comme demandé, ma piste de recherche n'a malheuresement pas pu aller plus loin.
+Dans l'environnement j'ai pu attribuer **l** à **ls** et à **al** avec **export ls=l ; export al=l**, mais la commande qui marche ici est l -l et non ll comme demandé, ma piste de recherche n'a malheuresement pas pu aller plus loin.
 
 
