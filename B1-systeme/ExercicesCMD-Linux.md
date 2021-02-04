@@ -42,7 +42,13 @@ Voici l'arborescence.
 **ls** permettant ici de lister le contenu d'un répertoire et **-l** de lister avec les informations détaillées.
 4. Pour executer la même commande tout en rajoutant les fichiers cachés on utilise cette fois la commande **ls -l -a**.  
 **-a** se chargeant ici d'inclure les fichiers cachés.
-5.
+5. Pour se faire on utilise la commande **cp**, et on entre **cp index.html index2.html** sur le terminal.
+6. On entre ici la commande **mkdir archive**.
+7. Pour copier tous les fichiers html on utilise __*.html__, ainsi la commande donne :
+     __cp__ __*.html /home/symna/monsite/archive__
+8. On se place tout d'abord dans le répertoire css avec un **cd css** puis on utilise la commande **mv** qui va nous permettre de renommer. Cela va ainsi donner **mv style.css monsite.css**.
+9. On se replace avant tout dans le répertoire monsite avec un **cd ..** puis on utilise une nouvelle fois la commande __*__ qui va nous permettre de supprimer tous les fichiers du répertoires qui commencent par le mot **index**, ce qui est le cas ici, nous n'avons plus qu'à entrer la commande __rm index*__ dans le terminal.
+10. En une seule commande il nous faudra nous placer dans le répertoire personnel /symna puis supprimer le répertoire monsite, nous utiliserons **cd .. ; rm -rf monsite**. Ici **;** va nous permettre d'entrer plusieurs commandes à la suite, et **rm -rf** va forcer la suppression d'un répertoire non vide.
 
 
 
