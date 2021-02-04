@@ -41,9 +41,20 @@ On passe sur rep3 (**cd .. -> cd rep3**), **mkdir rep31** puis **mkdir rep32**.
 
 ## Exercice 3 ##
 
+#### 1ère Partie ####
+
 Après avoir trouvé que **&** permettait d'enchaîner des commandes tout en les différenciant, j'ai pu établir cette ligne de commande qui répond à tous les critères de l'exercice :
 
-    mkdir exo3 & cd exo3 & echo Je suis en BTS SIO > moi.txt & echo Et j'aime ça ! >> moi.txt
+    mkdir exo3 & cd exo3 & echo Je suis en BTS SIO & echo Je suis en BTS SIO > moi.txt & echo Et j'aime ça ! >> moi.txt
+
+#### 2nde Partie ####
+
+Et quant à la seconde partie, ma commande donne ceci :  
+
+    copy presidents.txt presidentsFrance.txt & move pre* C:\Users\symna & cd .. & del pre* & rmdir /S exo3 & cls
+
+
+
 
 
 
