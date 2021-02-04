@@ -53,6 +53,9 @@ Et quant à la seconde partie, ma commande donne ceci :
 
     copy presidents.txt presidentsFrance.txt & move pre* C:\Users\symna & cd .. & del pre* & rmdir /S exo3 & cls
 
+## Exercice 4 ##
+
+- Pour afficher le nom de l'utilisateur courant on utilise **whoami**
 
 
 
