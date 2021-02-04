@@ -62,6 +62,12 @@ La commande à faire pour cette partie de l'exercice est
 Et pour cette partie j'ai trouvé une commande, qui n'est pas optimale selon moi mais qui remplie les conditions de l'exercice !  
     __cp rois.txt roisFrance.txt ; mv rois.txt /home/symna ; mv roisFrance.txt /home/symna ; cd .. ; rm *.txt ; cd exo3 ; rm rio.txt ; cd .. ; rm -rf exo3 ; reset__
 
+## Exercice 4 ##
+
+- J'utilis la commande **cp -r /bin /home/symna**, le répertoire bin est ainsi crée dans mon répertoire personnel.
+- J'affiche le nom de l'utilisateur courant avec la commande **whoami**.
+- J'affiche la liste des variables d'environnement avec la commande **env**.
+
 
 
 
