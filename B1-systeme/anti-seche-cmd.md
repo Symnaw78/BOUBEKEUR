@@ -17,3 +17,4 @@ Nacime Boubekeur
 |**type nul >** <*nom*>|**touch** <*nom*>|Crée un fichier vide
 |**move** <*nom du fichier*> <*chemin absolu du dossier*>|**mv** <*nom du fichier*> <*chemin absolu du dossier*>|Déplace un fichier vers un dossier, nous pouvons également utiliser une commande pour déplacer tous les fichiers d'une même extension ou qui commencent par le même mot etc.. exemple : **mv** *.txt */exemple/exemple1*, la commande va déplacer tous les fichiers en .txt du répertoire courant vers le répertoire *exemple1*
 |**whoami**|**whoami**|Affiche le nom de l'utilisateur courant|
+|**set**|**env**|Affiche la liste des variables d'environnement|
