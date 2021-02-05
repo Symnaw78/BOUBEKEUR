@@ -21,7 +21,7 @@ Nacime Boubekeur
 ## Etape 2 ##
 
 -
--**scp** et **rsync** peuvent être d'une grande utilité car **scp** permet le transfert de fichier vers un serveur distant en tout sécurité, quant à **rsync** il va, lui, permettre la synchronisation de fichiers/répertoires vers un serveur distant en toute sécurité également.
+- **scp** et **rsync** peuvent être d'une grande utilité car **scp** permet le transfert de fichier vers un serveur distant en tout sécurité, quant à **rsync** il va, lui, permettre la synchronisation de fichiers/répertoires vers un serveur distant en toute sécurité également.
 - La commande complète pour ajouter des fichiers sauvegardés en local sur le serveur dédié est, pour ma part :  
 `scp monportfolio3/* nacimeb@ssh-nacimeb.alwaysdata.net:~/www/`
 
