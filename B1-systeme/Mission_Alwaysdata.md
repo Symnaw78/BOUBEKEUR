@@ -30,5 +30,5 @@ Mais si on pouvait généraliser la commande, cela donnerait :
     scp <chemin absolu du répertoire>* [nom d'utilisateur]@ssh-[nom d'utilisateur].alwaysdata.net:~/www/
 
 - Pour vérifier que l'ajout a bien été effectué, on retourne sur notre espace dédiée et on entre la commande **cd www** puis **ls**, on est ainsi sensé voir nos fichiers être affiché.
-- J'annonce avec fierté que l'url permettant de voir mon site en ligne est <nacimeb.alwaysdata.net
+- J'annonce avec fierté que l'url permettant de voir mon site en ligne est <nacimeb.alwaysdata.net>.
 
