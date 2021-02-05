@@ -1,6 +1,6 @@
 # Mieux me connaître #
 
-- Mon nom : Boubekeur
+- Mon nom : Boubekeur Nacime
 
 - Dernier diplôme obtenu : BAC
 
