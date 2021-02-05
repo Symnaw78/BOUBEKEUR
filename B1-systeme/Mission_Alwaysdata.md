@@ -15,3 +15,7 @@ Nacime Boubekeur
 - L'intérêt du protocole **SSH** est sa communication sécurisée, imposant à l'utilisateur un échange de clés de chiffrement à chaque début de connexion, il garantit une authentification sûre des personnes souhaitant communiquer entre elles. Par défaut il est actif sur le **port 22**.
 - Le protocole qui semble avoir les mêmes fonctionnalités est le protocole **FTP**, car ils peuvent échanger des fichiers sur internet entre deux ordinateurs, ils suivent donc le modèle client-serveur. Cependant la différence majeure est que **SSH** est par défaut sécurisé contrairement à **FTP**.
 
+![](2021-02-05__2_.png)
+
+- Pour activer un accès au serveur on configure son protocole SSH avec une connexion par mot de passe, mot de passe qu'il faudra entrer (rien de plus), ensuite on clique sur le lien qui nous est proposé sur *par le Web*, ou on entre l'url qui est affiché juste avant la parenthèse.
+
