@@ -1,6 +1,7 @@
-Nacime Boubekeur
+Nacime Boubekeur  
+05/02/2021
 
-## Aide markdown ##
+## **Aide markdown** ##
 
 Sites de référence
 
@@ -68,6 +69,7 @@ En effet, j'utilise la façon la moins compréhensible en markdown mais beaucoup
     |Ligne 1| x | y|
     |Ligne 2| x | y|
 
+Le rendu reste évidemment indentique.
 ### Les liens ###
 
 Encadrer le lien par des chevrons est suffisant pour le rendre cliquable, exemple :  
