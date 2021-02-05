@@ -55,7 +55,8 @@ Et quant à la seconde partie, ma commande donne ceci :
 
 ## Exercice 4 ##
 
-- Pour afficher le nom de l'utilisateur courant on utilise **whoami**
+- Pour afficher le nom de l'utilisateur courant on utilise **whoami**.
+- Pour afficher les variables d'environnement on utilise la commande **set**.
 
 
 
