@@ -20,7 +20,12 @@ Nacime Boubekeur
 
 ## Etape 2 ##
 
+<<<<<<< HEAD
 - Le chemin local absolu pour accéder à mon site est :    `C:\Users\symna\OneDrive\Documents\Monportfolio3\index.html`
+=======
+- Le chemin local absolu pour accéder à mon site est :  
+`C:\Users\symna\OneDrive\Documents\Monportfolio3\index.html`
+>>>>>>> c6dbde66bc2495d83969ec00d3829eec69029dd1
 - Le chemin absolu du répertoire dédié sur le serveur alwaysdata est : `nacimeb@ssh1:~/www`
 - **scp** et **rsync** peuvent être d'une grande utilité car **scp** permet le transfert de fichier vers un serveur distant en tout sécurité, quant à **rsync** il va, lui, permettre la synchronisation de fichiers/répertoires vers un serveur distant en toute sécurité également.
 - La commande complète pour ajouter des fichiers sauvegardés en local sur le serveur dédié est, pour ma part :  
