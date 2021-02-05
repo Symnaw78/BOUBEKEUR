@@ -46,12 +46,38 @@ Pour afficher du code dans une ligne, il faut **l’entourer par des guillemets 
 
 ### Barre de séparation ###
 
-Au moins **3 caractères** (* ou -) et entourée avec du saut de ligne
+Au moins **3 caractères** (* ou -) et entourée avec du saut de ligne comme ci-dessous :
 
     --------
     oui
     --------
 
--------
-oui
--------
+### Les tableaux ###
+
+Il y a 2 façons de faire des tableaux mais la plus agréable est celle où on ne se préoccupe pas d'aligner toutes les colonnes, exemple :  
+
+    |Colonne 1|Colonne 2|Colonne 3|
+    |---------|:-------:|--------:|
+    |Ligne 1  |     x   |        y|
+    |Ligne 2  |     x   |        y|
+
+En effet, j'utilise la façon la moins compréhensible en markdown mais beaucoup plus pratique :  
+
+    |Colonne 1|Colonne 2|Colonne 3|
+    |-|:-:|-:|
+    |Ligne 1| x | y|
+    |Ligne 2| x | y|
+
+### Les liens ###
+
+Encadrer le lien par des chevrons est suffisant pour le rendre cliquable, exemple :  
+
+    <https://scantrad.net/>
+
+### Les images ###
+
+Le code en markdown nécessaire est :  
+
+    ![Naruto Kyuubi](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/Naruto-Key-Visual.jpg "naruto image")
+
+Ici le ![ ] va permettre d'écrire un texte qui ne sera vu que si l'image n'est pas chargé ou lu, ensuite on insère le lien entre parenthèse et le texte entre guillemets est facultatif, mais celui-ci sera affiché au survol de la souris sur l'image.
