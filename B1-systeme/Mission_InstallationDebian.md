@@ -19,4 +19,5 @@ Nous voici finalement dans le BIOS, pour vérifier le paramètre de configuratio
 
 ## Etape 2 ##
 
-1. 
+1. La version installée est Debian GNU/Linux 10.8.0
+2.
