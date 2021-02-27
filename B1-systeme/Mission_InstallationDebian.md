@@ -64,11 +64,11 @@ Ensuite la machine va nous demander si on veut analyser un autre CD ou DVD, j'ai
 
 ![](img/analysedvd.png)
 
-Ensuite vient le choix du miroir de l'archive debian, je vais prendre deb.debian.org car selon la machine ce choix est pertinent.
+Par la suite nous vient le choix du miroir de l'archive debian, je vais prendre deb.debian.org car selon la machine ce choix est pertinent.
 
 ![](img/miroirarchivedebian.png)
 
-Puis vient le choix du mandataire HTTP, c'est un serveur proxy qui peut servir pour nous assurer l'anonymat mais dans notre cas nous n'en avons pas besoin
+Puis vient le choix du mandataire HTTP, c'est un serveur proxy qui peut servir pour nous assurer plusieurs fonctions telle que l'anonymat mais dans notre cas nous n'en avons pas réellement besoin.
 
 ![](img/mandataire.png)
 
