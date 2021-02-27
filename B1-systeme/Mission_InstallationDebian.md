@@ -34,6 +34,30 @@ Premièrement, indiquer le nom du système, dans notre cas qui installons notre 
 
 ![](img/configReseauNom.png)
 
-Ensuite vient le nom domaine, encore une fois nous paramétrons nous même notre cela a donc pas d'importance d'en mettre un
+Ensuite vient le nom domaine, encore une fois nous paramétrons nous même notre réseau cela a donc pas d'importance d'en mettre un.
 
 ![](img/domaine.png)
+
+S'en suit l'étape du **superutilisateur**, il ne faut pas rentrer d'identifiant ni de mot de passe, cela créera un administrateur qui, dans notre cas, posera plus de problèmes qu'autre chose.
+
+![](img/mdpRoot.png)
+
+Après cette étape, il faudra simplement créer son identifiant et mot de passe personnel.
+
+![](img/nomutilisateur.png)
+
+Nous devons ensuite partitionner les disques, pour ma part j'ai utilisé un disque entier.
+
+![](img/partition.png)
+
+Et concernant mon schéma de partition, j'ai choisi l'option recommandé pour les débutants.
+
+![](img/partitiondebutant.png)
+
+Et pour finir, on termine le partionnement et on applique les changements sur les disques.
+
+![](img/terminerpartition.png)
+
+![](img/partitionnementchangementautorise.png)
+
+
