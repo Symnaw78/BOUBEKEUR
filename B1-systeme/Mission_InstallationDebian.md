@@ -20,4 +20,20 @@ Nous voici finalement dans le BIOS, pour vérifier le paramètre de configuratio
 ## Etape 2 ##
 
 1. La version installée est Debian GNU/Linux 10.8.0
-2.
+2. L'installation requiert plusieurs étapes importantes mais avant cela il nous faut configurer une machine.
+
+![](img/optionMachineVirtuelle.png)
+
+Voici une configuration, je dis une car il existe beaucoup de configuration différentes, celle-ci peut très bien servir d'exemple car elle est tout à fait fonctionnelle.
+
+Maintenant que la machine est configuré, passons à l'installation, voici les étapes requis, il n'est pas nécessaire de tout détailler mais je vais lister celles qui sont selon moi les plus importantes.
+
+![](img/AllSteps.png)
+
+Premièrement, indiquer le nom du système, dans notre cas qui installons notre propre réseau cela a peu d'importance mais il est bien de souligner que dans un environnement professionnel, il est nécessaire de connaitre ce nom pour identifier le système sur le réseau.
+
+![](img/configReseauNom.png)
+
+Ensuite vient le nom domaine, encore une fois nous paramétrons nous même notre cela a donc pas d'importance d'en mettre un
+
+![](img/domaine.png)
