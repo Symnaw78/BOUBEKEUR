@@ -60,4 +60,16 @@ Et pour finir, on termine le partionnement et on applique les changements sur le
 
 ![](img/partitionnementchangementautorise.png)
 
+Ensuite la machine va nous demander si on veut analyser un autre CD ou DVD, j'ai mis non pour ma part.
+
+![](img/analysedvd.png)
+
+Ensuite vient le choix du miroir de l'archive debian, je vais prendre deb.debian.org car selon la machine ce choix est pertinent.
+
+![](img/miroirarchivedebian.png)
+
+Puis vient le choix du mandataire HTTP, c'est un serveur proxy qui peut servir pour nous assurer l'anonymat mais dans notre cas nous n'en avons pas besoin
+
+![](img/mandataire.png)
+
 
