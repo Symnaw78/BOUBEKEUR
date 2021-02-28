@@ -157,3 +157,15 @@ Et ces logiciels qui sont dans la catégorie **Applications système** :
 - Polices de GNOME
 - Terminal
 - Vidéos
+
+## Etape 3 ##
+
+1. Lorsque je suis à l'ESIEE IT le, réseau physique que j'utilise la WIFI.
+
+2. Le mode d'accès réseau de ma machine est NAT, c'est de cette façon qu'elle arrive à accéder à internet
+
+3. La procédure utilisée pour vérifier l'accès à internet par la machine virtuelle a été d'ouvrir mon terminal pour entrer la commande suivante `ping 10.0.2.15 -c 3`
+
+![](img/testAccesInternet.png)
+
+
