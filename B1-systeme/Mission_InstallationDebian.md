@@ -164,7 +164,7 @@ Et ces logiciels qui sont dans la catégorie **Applications système** :
 
 2. Le mode d'accès réseau de ma machine est NAT, c'est de cette façon qu'elle arrive à accéder à internet
 
-3. La procédure utilisée pour vérifier l'accès à internet par la machine virtuelle a été d'ouvrir mon terminal pour entrer la commande suivante `ping 10.0.2.15 -c 3`
+3. La procédure utilisée pour vérifier l'accès à internet par la machine virtuelle a été d'ouvrir mon terminal pour entrer la commande suivante `ping 10.0.2.15 -c 3` **10.0.2.15** étant mon ip, ip que j'ai trouvé en entrant la commande `hostname -I`, **-c** veut dire **count**, ainsi **-c 3** va me permettre de dire à la machine de ne répeter l'action que 3 fois, car sur Linux la commande seule va nous afficher une répétition infini, sauf si on l'arrête manuellement.
 
 ![](img/testAccesInternet.png)
 
