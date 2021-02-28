@@ -72,4 +72,53 @@ Puis vient le choix du mandataire HTTP, c'est un serveur proxy qui peut servir p
 
 ![](img/mandataire.png)
 
+Et pour finir, nous pouvons commencer l'installation, cependant la machine va nous proposer certains logiciels supplémentaires à rajouter à l'installation, dans notre cas nous choisirons le GNOME et le serveur SSH.
 
+![](img/selectionlogiciel.png)
+
+Cependant, il nous manque le programme de démarrage GRUB, que la machine va bien entendu nous proposer d'installer, pour ma part je l'installerai sur mon disque dur.
+
+![](img/installationGrub.png)
+
+![](img/installationNonManuel.png)
+
+Et voilà, un beau message nous disant que votre installation est terminée !
+
+![](img/installationtermine.png)
+
+Il ne manquera plus qu'à entrer le mot de passe de sa session
+
+![](img/sessionVM.png)
+
+3. Login : gokussj4 - Mot de passe : Chocolat78-
+
+4. La liste exhaustive des logiciels installés :
+- Agenda
+- Ajustements de GNOME
+- Cartes de GNOME
+- Cheese
+- Cinq ou plus
+- Contacts
+- Disques de GNOME
+- Documents
+- Démineur de GNOME
+- Enregistreur de son
+- Evolution
+- File Roller
+- Firefox ESR 
+- Gestionnaire colorimétrique de GNOME
+- GNOME Logs 
+- GNOME Mahjongg
+- GNOME Nibbles
+- GNOME Tetravex
+- Hitori de GNOME
+- Horloges de GNOME
+- lagno
+- Jeu d'échecs de GNOME
+- Klotski de GNOME
+- LibreOffice Calc
+- LibreOffice Draw
+- LibreOffice Impress
+- LibreOffice Math 
+- LibreOffice Writer
+- Musique de 
