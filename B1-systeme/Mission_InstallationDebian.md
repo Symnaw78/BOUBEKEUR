@@ -121,4 +121,39 @@ Il ne manquera plus qu'à entrer le mot de passe de sa session
 - LibreOffice Impress
 - LibreOffice Math 
 - LibreOffice Writer
-- Musique de 
+- Musique de GNOME
+- Météo
+- Nautilus
+- Outil de numérisation Simple Scan
+- Quadrapassel
+- Quatre-à-la-suite
+- Rhythmbox
+- Robots de GNOME
+- Seahorse
+- Software & Updates
+- Solitaire Aisleriot
+- Sudoku de GNOME
+- Swell Foop
+- Tali
+- Taquin de GNOME
+- To Do 
+- Toutéteint
+- Transmission
+- Vim
+- Visionneur de bureaux distants 
+
+Et ces logiciels qui sont dans la catégorie **Applications système** :
+
+- Aide de GNOME
+- Analyseur d'utilisation des disques
+- Calculatrice de GNOME
+- Capture d'écran de GNOME
+- Centre de contrôle de GNOME
+- Evince
+- Eye of GNOME
+- gedit
+- Logiciels de GNOME
+- Moniteur système de GNOME
+- Polices de GNOME
+- Terminal
+- Vidéos
